@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DividerView</string>
+    <string name="title_activity_space_divider">SpaceDividerAct</string>
+    <string name="title_activity_margin_divider">MarginDividerAct</string>
+</resources>
